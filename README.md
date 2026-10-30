@@ -148,14 +148,11 @@ public class DeveloperProfile
     <img src="https://streak-stats.demolab.com?user=gokdenizayrilmis&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=38BDF8&currStreakLabel=A855F7" width="70%" alt="Streak Graph" />
   </p>
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=gokdenizayrilmis&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
-  </p>
 </div>
 
 <!-- ======================================================= -->
 <!--                   FOOTER BANNER                         -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:8B5CF6&height=110&section=footer" width="100%" alt="Footer Banner" />
 </div>
