@@ -2,7 +2,7 @@
 <!--                   HEADER & HERO BANNER                  -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gokdeniz%20Ayrilmis&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20Architecture%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gokdeniz%20Ayrilmis&fontSize=42&fontColor=fff&fontAlignY=40" width="100%" alt="Header Banner" />
 </div>
 
 <!-- KAYAN DAKTİLO ANİMASYONU -->
@@ -37,6 +37,7 @@
 <!-- ======================================================= -->
 <!--                   HAKKIMDA & GELİŞTİRİCİ KARTI           -->
 <!-- ======================================================= -->
+
 ### ⚡ `System.Console.WriteLine("About Me");`
 
 <table>
@@ -54,7 +55,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Animation" />
+      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
@@ -72,21 +73,21 @@ public class DeveloperProfile
     public string Name => "Gökdeniz Ayrılmış";
     public string Role => "Software Developer (Backend & Full-Stack)";
     public string Location => "Istanbul, Turkey";
-    
+
     public string[] ArchitecturePatterns => [
-        "Clean Architecture", "Onion Architecture", "CQRS", 
+        "Clean Architecture", "Onion Architecture", "CQRS",
         "Domain-Driven Design (DDD)", "Repository & Unit of Work"
     ];
-    
+
     public string[] BackendStack => [
-        "C#", ".NET 9 / 10", "ASP.NET Core Web API", 
+        "C#", ".NET 9 / 10", "ASP.NET Core Web API",
         "Entity Framework Core", "MediatR", "Duende IdentityServer"
     ];
-    
+
     public string[] DatabasesAndCaching => [
         "PostgreSQL (PostGIS)", "MSSQL", "MongoDB", "Redis"
     ];
-    
+
     public string[] FrontendStack => [
         "Angular", "Next.js", "React", "TypeScript", "Tailwind CSS"
     ];
@@ -106,16 +107,19 @@ public class DeveloperProfile
 </div>
 
 ### 🚀 Backend & Çekirdek Teknolojiler
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mongodb,redis,docker,linux,postman&theme=dark&perline=8" alt="Backend Stack" />
 </p>
 
 ### 🌐 Frontend & Arayüz Geliştirme
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,tailwind,html,css,sass&theme=dark&perline=9" alt="Frontend Stack" />
 </p>
 
 ### 🏛️ Mimari Desenler & Kurumsal Standartlar
+
 <div align="center">
   <img src="https://img.shields.io/badge/Clean_Architecture-7C3AED?style=for-the-badge&logo=serverless&logoColor=white" alt="Clean Architecture" />
   &nbsp;
@@ -134,6 +138,7 @@ public class DeveloperProfile
 <!-- ======================================================= -->
 <!--                   ÖNE ÇIKAN PROJELER & ÇALIŞMALAR       -->
 <!-- ======================================================= -->
+
 ### 📌 `Featured Projects & Architecture Showcases`
 
 <table>
@@ -185,9 +190,9 @@ public class DeveloperProfile
   <h2>📊 <code>&lt;GitHub Analytics & Metrics /&gt;</code></h2>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gokdenizayrilmis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=38BDF8&text_color=94A3B8" height="175" alt="Stats Graph" />
+    <img src="https://github-stats-extended.vercel.app/api?username=gokdenizayrilmis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=38BDF8&text_color=94A3B8" height="175" alt="Stats Graph" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokdenizayrilmis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8" height="175" alt="Languages Graph" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gokdenizayrilmis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=94A3B8" height="175" alt="Languages Graph" />
   </p>
   
   <p align="center">
@@ -195,7 +200,7 @@ public class DeveloperProfile
   </p>
 
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokdenizayrilmis&bg_color=0d1117&color=a855f7&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gokdenizayrilmis&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
   </p>
 </div>
 
