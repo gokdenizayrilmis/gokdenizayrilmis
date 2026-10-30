@@ -136,7 +136,7 @@ public class DeveloperProfile
 <!--                   GİTHUB İSTATİSTİKLERİ                  -->
 <!-- ======================================================= -->
 <div align="center">
-  <h2>📊 <code>&lt;GitHub Analytics & Metrics /&gt;</code></h2>
+  <h2>📊 GitHub Analytics & Metrics</h2>
   
   <p align="center">
     <img src="https://github-stats-extended.vercel.app/api?username=gokdenizayrilmis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=38BDF8&text_color=94A3B8" height="175" alt="Stats Graph" />
