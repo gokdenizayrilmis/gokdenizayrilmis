@@ -25,8 +25,6 @@
   <a href="mailto:ayrilmisgokdeniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=gokdenizayrilmis&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
@@ -78,11 +76,11 @@ public class DeveloperProfile
 
     public string[] BackendStack => [
         "C#", ".NET 9 / 10", "ASP.NET Core Web API",
-        "Entity Framework Core", "MediatR", "Duende IdentityServer"
+        "Entity Framework Core", "MediatR", "Duende IdentityServer", "KeyCloak", "WebHook"
     ];
 
     public string[] DatabasesAndCaching => [
-        "PostgreSQL (PostGIS)", "MSSQL", "MongoDB", "Redis"
+        "PostgreSQL", "MSSQL", "MongoDB", "Redis"
     ];
 
     public string[] FrontendStack => [
