@@ -113,7 +113,6 @@ public class DeveloperProfile
   <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,tailwind,html,css,sass&theme=dark&perline=9" alt="Frontend Stack" />
 </p>
 
-
 ### 🏛️ Mimari Desenler, Veri & Test Standartları
 
 <div align="center">
@@ -154,16 +153,6 @@ public class DeveloperProfile
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=gokdenizayrilmis&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=38BDF8&currStreakLabel=A855F7" width="70%" alt="Streak Graph" />
   </p>
-
-  <br/>
-
-  <!-- GITHUB KATKI YILANI (SNAKE ANIMATION) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokdenizayrilmis/gokdenizayrilmis/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokdenizayrilmis/gokdenizayrilmis/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gokdenizayrilmis/gokdenizayrilmis/output/github-contribution-grid-snake-dark.svg" width="95%" />
-  </picture>
-
 </div>
 
 <!-- ======================================================= -->
