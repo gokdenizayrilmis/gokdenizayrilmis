@@ -1,75 +1,48 @@
+<!-- ÜST DALGA BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,18,6&height=220&section=header&text=Gokdeniz%20Ayrilmis&fontSize=42&fontAlignY=38&desc=Full-Stack%20%7C%20Backend%20Developer&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Gökdeniz%20Ayrılmış&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Backend%20%26%20Full-Stack%20Architecture&descAlignY=58&descSize=18" width="100%" />
+</div>
 
+<!-- KAYAN DAKTİLO ANİMASYONU (TYPING SVG) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Building+Scalable+Backend+Systems+with+.NET+%26+C%23;Clean+Architecture+%7C+CQRS+%7C+Microservices;Full-Stack+Web+Development+with+Angular+%26+Next.js;Always+learning%2C+always+coding+🚀" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- SOSYAL MEDYA & ZİYARETÇİ SAYACI -->
+<div align="center">
   <a href="https://linkedin.com/in/gökdeniz-ayrılmış-3b8b33266" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://gokdenizayrilmis.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:gokdenizayrilmis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ayrilmisgokdeniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=gokdenizayrilmis&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="gokdenizayrilmis" />
 </div>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👨‍💻 Hakkımda
-- 🔭 Şu anda **Enterprise Web Uygulamaları** ve mikroservis mimarileri üzerine çalışıyorum.
-- ⚙️ Ağırlıklı olarak **.NET (C#)**, **Clean Architecture**, **CQRS** ve modern frontend teknolojilerini kullanıyorum.
-- 🎯 Hedefim: Ölçeklenebilir, test edilebilir ve yüksek performanslı backend sistemleri inşa etmek.
+<!-- HAKKIMDA & GIF BÖLÜMÜ (YAN YANA) -->
+### ⚡ `<Hakkımda />`
 
-<br/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🛠️ Teknolojiler & Beceriler
-
-**Backend & Mimari**
-<p>
-  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CQRS_%26_MediatR-black?style=for-the-badge" />
-</p>
-
-**Veritabanı**
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-**Araçlar & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-<br/>
-
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokdenizayrilmis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Gokdeniz's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokdenizayrilmis&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=gokdenizayrilmis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,18,12,24&height=100&section=footer" width="100%" />
-</div>
+```csharp
+namespace GokdenizAyrilmis
+{
+    public class DeveloperProfile
+    {
+        public string Name => "Gökdeniz Ayrılmış";
+        public string Role => "Software Developer";
+        public string[] Architecture => ["Clean Architecture", "Onion", "N-Layer", "CQRS"];
+        public string[] Backend => ["C#", ".NET 10", "ASP.NET Core", "MediatR", "IdentityServer"];
+        public string[] Frontend => ["Angular", "Next.js", "React", "TypeScript", "Tailwind CSS"];
+        public string[] Databases => ["MSSQL", "PostgreSQL (PostGIS)", "MongoDB"];
+        public string CurrentFocus => "Building Enterprise Web Apps & Microservices";
+    }
+}
