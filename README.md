@@ -98,7 +98,7 @@ public class DeveloperProfile
 <!--                   TEKNOLOJİ YIĞINI & ARAÇLAR            -->
 <!-- ======================================================= -->
 <div align="center">
-  <h2>🛠️ <code>&lt;Tech Arsenal & Skills /&gt;</code></h2>
+  <h2>🛠️ Tech Arsenal & Skills</h2>
 </div>
 
 ### 🚀 Backend & Çekirdek Teknolojiler
