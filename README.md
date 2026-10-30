@@ -41,7 +41,7 @@
     <td width="60%" valign="top">
       <br/>
       <p>
-        👋 Merhaba! Ben <b>Gökdeniz</b>. Ölçeklenebilir, test edilebilir ve sürdürülebilir kurumsal arka uç (backend) mimarileri inşa etmeye odaklanan bir <b>Yazılım Geliştiriciyim</b>.
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" alt="wave"> Merhaba! Ben <b>Gökdeniz</b>. Ölçeklenebilir, test edilebilir ve sürdürülebilir kurumsal arka uç (backend) mimarileri inşa etmeye odaklanan bir <b>Yazılım Geliştiriciyim</b>.
       </p>
       <ul>
         <li>🔭 <b>Odaklandığım Alanlar:</b> Clean Architecture, CQRS, MediatR, Duende IdentityServer ve Mikroservis yaklaşımları.</li>
@@ -113,7 +113,8 @@ public class DeveloperProfile
   <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,tailwind,html,css,sass&theme=dark&perline=9" alt="Frontend Stack" />
 </p>
 
-### 🏛️ Mimari Desenler & Kurumsal Standartlar
+
+### 🏛️ Mimari Desenler, Veri & Test Standartları
 
 <div align="center">
   <img src="https://img.shields.io/badge/Clean_Architecture-7C3AED?style=for-the-badge&logo=serverless&logoColor=white" alt="Clean Architecture" />
@@ -123,9 +124,17 @@ public class DeveloperProfile
   <img src="https://img.shields.io/badge/CQRS_%26_MediatR-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" alt="CQRS" />
   &nbsp;
   <img src="https://img.shields.io/badge/Duende_IdentityServer-2563EB?style=for-the-badge&logo=auth0&logoColor=white" alt="IdentityServer" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Redis_Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/xUnit_Testing-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="xUnit" />
+</p>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -145,6 +154,15 @@ public class DeveloperProfile
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=gokdenizayrilmis&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=38BDF8&currStreakLabel=A855F7" width="70%" alt="Streak Graph" />
   </p>
+
+  <br/>
+
+  <!-- GITHUB KATKI YILANI (SNAKE ANIMATION) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokdenizayrilmis/gokdenizayrilmis/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokdenizayrilmis/gokdenizayrilmis/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gokdenizayrilmis/gokdenizayrilmis/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  </picture>
 
 </div>
 
