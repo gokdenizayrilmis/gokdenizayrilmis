@@ -1,9 +1,7 @@
 <!-- ======================================================= -->
 <!--                   HEADER & HERO BANNER                  -->
 <!-- ======================================================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gokdeniz%20Ayrilmis&fontSize=42&fontColor=fff&fontAlignY=40" width="100%" alt="Header Banner" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4C1D95,100:8B5CF6&height=180&section=header&text=Gokdeniz%20Ayrilmis&fontSize=42&fontColor=fff&fontAlignY=40" width="100%" />
 
 <!-- KAYAN DAKTİLO ANİMASYONU -->
 <div align="center">
@@ -24,7 +22,7 @@
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="mailto:gokdenizayrilmis@gmail.com">
+  <a href="mailto:ayrilmisgokdeniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
@@ -51,7 +49,6 @@
         <li>🔭 <b>Odaklandığım Alanlar:</b> Clean Architecture, CQRS, MediatR, Duende IdentityServer ve Mikroservis yaklaşımları.</li>
         <li>🌱 <b>Sürekli Öğrenme:</b> Dağıtık sistemler, yüksek performanslı API optimizasyonları ve modern frontend ekosistemleri (Angular, Next.js).</li>
         <li>💡 <b>Felsefem:</b> Temiz kod sadece çalışan kod değil, başkalarının da kolayca anlayıp genişletebildiği koddur.</li>
-        <li>💬 <b>Bana Sorun:</b> C#, .NET 9/10, EF Core, PostgreSQL, Mimari Desenler & Sistem Tasarımı.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -76,7 +73,7 @@ public class DeveloperProfile
 
     public string[] ArchitecturePatterns => [
         "Clean Architecture", "Onion Architecture", "CQRS",
-        "Domain-Driven Design (DDD)", "Repository & Unit of Work"
+        "Domain-Driven Design (DDD)", "Repository & Unit of Work", "EF Core"
     ];
 
     public string[] BackendStack => [
@@ -131,54 +128,6 @@ public class DeveloperProfile
   &nbsp;
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
 </div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ======================================================= -->
-<!--                   ÖNE ÇIKAN PROJELER & ÇALIŞMALAR       -->
-<!-- ======================================================= -->
-
-### 📌 `Featured Projects & Architecture Showcases`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏛️ Clean Architecture & CQRS Enterprise Starter</h4>
-      <p>ASP.NET Core Web API üzerinde MediatR, FluentValidation, Global Exception Handling ve PostgreSQL kullanan kurumsal mimari şablonu.</p>
-      <p>
-        <code>.NET</code> <code>C#</code> <code>CQRS</code> <code>PostgreSQL</code> <code>Docker</code>
-      </p>
-      <a href="https://github.com/gokdenizayrilmis" target="_blank"><b>Projeyi İncele →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔐 Identity & Authentication Microservice</h4>
-      <p>Duende IdentityServer ve JWT tabanlı, merkezi kimlik doğrulama, token yönetimi ve rol bazlı yetkilendirme (RBAC) servisi.</p>
-      <p>
-        <code>IdentityServer</code> <code>OAuth2 / OIDC</code> <code>ASP.NET Core</code> <code>MSSQL</code>
-      </p>
-      <a href="https://github.com/gokdenizayrilmis" target="_blank"><b>Projeyi İncele →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Full-Stack Modern Web Platform</h4>
-      <p>Frontend tarafında Angular / Next.js ve arka planda RESTful .NET servisleri ile geliştirilen dinamik ve duyarlı web uygulaması.</p>
-      <p>
-        <code>Angular</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>
-      </p>
-      <a href="https://github.com/gokdenizayrilmis" target="_blank"><b>Projeyi İncele →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📍 GIS & Spatial Data Management (PostGIS)</h4>
-      <p>PostgreSQL ve PostGIS eklentisi kullanarak konumsal verilerin sorgulanması, filtrelenmesi ve yüksek performanslı harita servisleri.</p>
-      <p>
-        <code>PostGIS</code> <code>PostgreSQL</code> <code>Spatial Queries</code> <code>.NET API</code>
-      </p>
-      <a href="https://github.com/gokdenizayrilmis" target="_blank"><b>Projeyi İncele →</b></a>
-    </td>
-  </tr>
-</table>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
